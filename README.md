@@ -1,5 +1,3 @@
-// Varun Pendem
-// PRN: 23070123149
 
 # CDS-experiment-15
 
